@@ -1,6 +1,6 @@
 #intarface
 #open code 
-#thanks to my uncle who gave me data
+#thanks to my uncle(Bro Uzoma) who gave me data
 import os
 os.system("clear")
 import smtplib
@@ -32,6 +32,8 @@ line=red+" The Tools Version : 2.0 "
 space=" "
 os.system("clear")
 logo=print(blue+"""
+I am a Nigerian Hacker.
+I am an Offensive Sercurity Certified Professional.(OSCP)
 ······················;ρβΜΜΜΜΜΜμ;
 ···················;ρΜΜΠ΅Ε;ΪΜΜΪΫΜΜμ
 ··················ΔΜΒ΄ΚΚκκΚΪΜΜΜΜΜΪΜΜΝ
@@ -61,11 +63,11 @@ logo=print(blue+"""
 ··;ΫβΜββΜ··············΄΅ΓΓ΅ΓΓ················πΜΒχβΜΠ
 ·;··ΜΜΜΜΜ;····································χΜΜΜΜΜ
 ·····΄ΫΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜMMMΜΜΜΜΜΜΜΜΜΜΜΜΜΠ
-·······ΪΜμμμμμ  Adnan  Islam  Pankkhas μμμμμμμμμμ
+·······ΪΜμμμμμ  My name is Chinedu David μμμμμμμμμμ
 ·······΅ΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫ""")
 
 
-text=str(input(yellow+" \n\n\n Wellcom —=—........  \n\n\n \t\tEnter To Continue [>] : "))
+text=str(input(yellow+" \n\n\n Wellcome —=—........  \n\n\n \t\tEnter To Continue [>] : "))
 
 text=lightblue+"\t\tModified By : "+yellow+"DAVID.......... Anonymous Elite"+cyan+"\n\n\t\t★★ "+purple+"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"+cyan+"★★   \n" 
 def header():
