@@ -1,4 +1,4 @@
-#intarface
+#interface
 #open code 
 #thanks to my uncle(Bro Uzoma) who gave me data
 import os
